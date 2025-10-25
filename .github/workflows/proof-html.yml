@@ -1,4 +1,5 @@
 name: Proof HTML
+permissions: read-all
 on:
   push:
   workflow_dispatch:
